@@ -59,7 +59,7 @@ FocusFlow helps you manage **multiple timers, track focus tasks, use a stopwatch
 
 ## 📸 Screenshot
 
-![FocusFlow Screenshot](screenshot.png)
+![FocusFlow Screenshot](https://i.postimg.cc/XqhLZCpH/Screenshot-2026-04-07-00-29-22.png)
 
 > Add your own screenshot file in the repo as `screenshot.png`
 
@@ -69,4 +69,4 @@ FocusFlow helps you manage **multiple timers, track focus tasks, use a stopwatch
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/focusflow.git
+git clone https://github.com/FoxifyX/focusflow.git
