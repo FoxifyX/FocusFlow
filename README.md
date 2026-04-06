@@ -61,7 +61,7 @@ FocusFlow helps you manage **multiple timers, track focus tasks, use a stopwatch
 
 ![FocusFlow Screenshot](https://i.postimg.cc/XqhLZCpH/Screenshot-2026-04-07-00-29-22.png)
 
-> Add your own screenshot file in the repo as `screenshot.png`
+
 
 ---
 
